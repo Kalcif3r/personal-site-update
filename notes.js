@@ -77,8 +77,8 @@ let resume =  {
       awardedFrom: 'Plymouth University UK',
       studiedAt: 'National School of Business Management',
       placeOfStudy: 'SriLanka',
-      startDate: 'May-2018',
-      endDate: 'November-2018',
+      startDate: 'October-2015',
+      endDate: 'May-2018',
       notableMoments: [
          'Volunteered for charity projects in the Rotaract Club of NSBM',
       ],
