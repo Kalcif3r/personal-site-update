@@ -38,8 +38,8 @@ let resume =  {
       employer: 'Mooinc',
       placeOfWork: 'Maldives',
       jobTitle: 'Project Manager',
-      startDate: 'May-2018',
-      endDate: 'November-2018',
+      startDate: 'late-2013',
+      endDate: 'early-2014',
       learnedAbout : [
         'Negotiation',
         'Conflict resolution',
@@ -58,8 +58,8 @@ let resume =  {
       employer: 'Maldives Inland Revenue Authority (MIRA)',
       placeOfWork: 'Maldives',
       jobTitle: 'Intern',
-      startDate: 'May-2018',
-      endDate: 'November-2018',
+      startDate: 'mid-2013',
+      endDate: 'late-2013',
       learnedAbout : [
         'SAP Taxation Software',
         'Manual data validation and entry',
@@ -71,9 +71,48 @@ let resume =  {
       ],
     }, // end of employmentObject
   ], // end of previousWorkArray
+  education: [
+    {
+      educationLevel: 'Undergraduate',
+      course: 'Bsc. in Software Engineering',
+      awardedFrom: 'Plymouth University UK',
+      studiedAt: 'National School of Business Management',
+      placeOfStudy: 'SriLanka',
+      startDate: 'May-2018',
+      endDate: 'November-2018',
+      notableMoments: [
+         'Volunteered for charity projects in the Rotaract Club of NSBM',
+      ],
+    }, // end of educationObject
+    {
+      educationLevel: 'Higher Secondary',
+      course: 'General Certificate of Education ( A levels )',
+      awardedFrom: 'Edexcel',
+      studiedAt: 'Center for Higher Secondary Education',
+      placeOfStudy: 'Maldives',
+      startDate: 'mid-2011',
+      endDate: 'mid-2013',
+      notableMoments: [
+         'Held the position of Business Club Treasurer',
+      ],
+    }, // end of educationObject
+    {
+      educationLevel: 'Lower Secondary',
+      course: 'General Certificate of Education ( O levels )',
+      awardedFrom: 'University of Cambridge',
+      studiedAt: 'Billabong High International School',
+      placeOfStudy: 'Maldives',
+      startDate: 'early-2009',
+      endDate: 'late-2010',
+      notableMoments: [
+         'Held the position of School Captain',
+      ],
+    },// end of educationObject
+  ], // end of educationArray
+
   contactInfo: {
     email: '1khwan.m0@gmail.com',
     phoneNumber : 'REDACTED',
     postalAddress : 'REDACTED',
-  }
+  } // end of contactInfoObject
 }
