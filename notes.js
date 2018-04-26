@@ -1,6 +1,5 @@
 // makin the file in js format because I'd really like to have the syntax highlighting.
 
-
 let resume =  {
   basicInfo: {
     fullName: 'Mohamed Ikhwan Ibrahim'
@@ -109,7 +108,37 @@ let resume =  {
       ],
     },// end of educationObject
   ], // end of educationArray
-
+  aboutMe : {
+    thingsILike: [
+      'coding',
+      'drawing',
+      'designing',
+      'listening to music',
+      'cooking',
+      'going on food adventures',
+      'reading',
+    ],
+    booksILike: [
+      'Tuesdays with Morrie, by Mitch Albom',
+      'The Kingkiller Chronicle, by Patrick Rothfus',
+      'The Alchemist, by Paulo Coelho',
+      'The Harry Potter Series, by J. K. Rowling',
+    ],
+    youTubeChannelsIWatch: [
+      'Philip DeFranco',
+      'Bon Apetit',
+      'TED',
+      'TEDx Talks',
+      'The Late Show with Stephen Colbert',
+      'The Daily Show with Trevor Noah',
+      'LastWeek Tonight',
+      'Linus Tech Tips',
+      'MKBHD',
+    ],
+    musicILike: [
+      'My taste in music is far too expansive for an array',
+    ]
+  }
   contactInfo: {
     email: '1khwan.m0@gmail.com',
     phoneNumber : 'REDACTED',
